@@ -128,6 +128,7 @@ import org.junit.runners.Suite;
     ServerPreparedStmtTest.class,
     ServerVersionParseTest.class,
     ServerVersionTest.class,
+    StartupParameterInjectionTest.class,
     StatementTest.class,
     StringTypeUnspecifiedArrayTest.class,
     TestACL.class,
